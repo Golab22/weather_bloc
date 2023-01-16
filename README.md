@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Running
+This app is using --dart-define way to pass values like api url or api key into the app.
+
+$ flutter run --dart-define=API_URL=HERE_IS_A_PLACE_FOR_API_URL --dart-define=API_KEY=HERE_IS_A_PLACE_FOR_API_KEY
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
