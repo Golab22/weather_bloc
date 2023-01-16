@@ -1,6 +1,6 @@
 # weather_bloc
 
-A new Flutter project.
+A new Flutter project (without test yet). 
 
 Running
 This app is using --dart-define way to pass values like api url or api key into the app.
